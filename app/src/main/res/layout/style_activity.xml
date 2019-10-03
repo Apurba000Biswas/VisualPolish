@@ -16,7 +16,7 @@
         android:drawableStart="@drawable/ic_inbox"
         android:drawableLeft="@drawable/ic_inbox"
         android:text="@string/inbox"
-        style="@style/folderStyle"/>
+        style="@style/inboxStyle"/>
 
     <TextView
         android:drawableStart="@drawable/ic_star"
